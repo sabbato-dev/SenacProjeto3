@@ -1,0 +1,112 @@
+header {
+    text-align: center;
+    background-color: #0090C5;
+}
+
+.divLogo {
+    display: inline-block;
+    background-color: #ffffff
+}
+
+.logo {
+    width: 130px;
+    height: 130px;
+    display: inline-block;
+}
+
+nav {
+    display: inline-block;
+}
+
+a {
+    background-color: #0090C5;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: white;
+}
+
+a:hover {
+
+    background-color: rgb(104, 119, 133);
+}
+
+p {
+    color: aliceblue;
+    display: inline-block;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4 {
+    color: rgb(74, 166, 247);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+li {
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-position: inside;
+    list-style: square;
+    text-indent: 50px
+}
+body {
+    text-align: center;
+background-color: #0090C5;
+}
+
+footer {
+    padding: 20px;
+    background-color: aliceblue;
+    text-align: center;
+    align-content: center;
+
+}
+button {
+        background-color: #04AA6D; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
+#formulario {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    align-content: center;
+}
+
+#atraçoes1 {
+    background-color: black;
+    display: inline-block;
+}
+
+.rodagigante{
+    height: 450px;
+}
+
+article{
+    width: 50%;
+    display: inline-block;
+    height: 450px ;
+}
+.montanha{
+    height: 200 px;
+    display: inline-block;
+}
+
+
